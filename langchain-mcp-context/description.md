@@ -1,0 +1,1 @@
+Una biblioteca de contexto que utiliza MCP (Model Context Protocol) para facilitar la compartición de contexto entre proyectos y reglas de Cursor. El proyecto implementa un servidor MCP con funcionalidades para gestionar memoria compartida y reglas de Cursor, permitiendo una mejor integración y comunicación entre diferentes componentes del sistema.
