@@ -1,0 +1,1 @@
+Frontend guide and documentation for the Paper Rock Scissors game API
