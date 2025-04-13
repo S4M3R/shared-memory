@@ -1,0 +1,1 @@
+A comprehensive guide and resource collection for excelling at hackathons, including best practices, time management strategies, and project planning tips.
